@@ -1,2 +1,2 @@
-# joseBaeboza
+# joseBarboza
 monitorizador sismico intregral
